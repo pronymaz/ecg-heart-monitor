@@ -1,0 +1,5 @@
+numpy
+scipy
+matplotlib
+# optional, only for --wfdb (real MIT-BIH records)
+wfdb
